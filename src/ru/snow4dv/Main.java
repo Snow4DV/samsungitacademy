@@ -20,5 +20,6 @@ public class Main {
 
         }
         System.out.println("End!");
+        System.out.println("Over!");
     }
 }
