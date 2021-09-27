@@ -15,7 +15,6 @@ public class Main {
             i++;
             for (int j = 0; j < i % 5; j++) {
                 System.out.print("-");
-                System.out.println("DSD");
             }
             System.out.println(c);
         }
